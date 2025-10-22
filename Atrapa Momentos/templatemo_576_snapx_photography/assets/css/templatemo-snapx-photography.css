@@ -136,7 +136,7 @@ body {
 }
 
 ::-moz-selection {
-  background: #00bdfe;
+  background: #313232;
   color: #fff;
 }
 
@@ -171,15 +171,15 @@ body {
 }
 
 .border-button a:hover {
-  background-color: #00bdfe;
+  background-color: #313232;
   color: #fff;
 }
 
 .main-button a {
   font-size: 15px;
   color: #fff;
-  background-color: #00bdfe;
-  border: 1px solid #00bdfe;
+  background-color: #313232;
+  border: 1px solid #313232;
   padding: 10px 30px;
   display: inline-block;
   border-radius: 10px;
@@ -191,7 +191,7 @@ body {
 
 .main-button a:hover {
   background-color: transparent;
-  color: #00bdfe;
+  color: #313232;
 }
 
 section {
@@ -208,7 +208,7 @@ section {
 .section-heading h6 {
   font-size: 15px;
   text-transform: uppercase;
-  color: #00bdfe;
+  color: #313232;
   font-weight: 400;
 }
 
@@ -222,7 +222,7 @@ section {
 }
 
 .section-heading h4 em {
-  color: #00bdfe;
+  color: #313232;
   font-style: normal;
 }
 
@@ -316,7 +316,7 @@ Header Style
 .header-area .main-nav .nav li {
   padding-left: 30px;
   padding-right: 30px;
-  background-color: #00bdfe;
+  background-color: #313232;
 }
 
 .header-area .main-nav .nav li a {
@@ -413,7 +413,7 @@ Header Style
 
 .header-area .main-nav .nav li.has-sub ul li a:hover {
   background: #fff;
-  color: #00bdfe!important;
+  color: #313232!important;
   padding-left: 25px;
 }
 
@@ -585,7 +585,7 @@ Header Style
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #00bdfe!important;
+    color: #313232!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -646,7 +646,7 @@ Header Style
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #00bdfe!important;
+    color: #313232!important;
   }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     position: relative;
@@ -714,13 +714,13 @@ section.popupBody {
 
 .btn {
   padding: 10px 20px;
-  background: #00bdfe;
+  background: #313232;
   color: #fff;
   transition: all .3s;
 }
 
 .btn_red {
-  background: #00bdfe;
+  background: #313232;
   color: #FFF;
 }
 
@@ -772,7 +772,7 @@ a.btn_red {
   right: 0;
   top: 0;
   padding: 10px 15px;
-  background: #00bdfe;
+  background: #313232;
   cursor: pointer;
   color: #fff;
   font-size: 16px;
@@ -888,7 +888,7 @@ a.btn_red {
   clear: both;
   overflow: hidden;
   text-decoration: none;
-  color: #00bdfe;
+  color: #313232;
   transition: all .3s;
 }
 /* User Register Form */
@@ -958,7 +958,7 @@ Banner Style
 
 .main-banner h2 em {
   font-style: normal;
-  color: #00bdfe;
+  color: #313232;
 }
 
 .main-banner p {
@@ -991,7 +991,7 @@ Banner Style
 
 .main-banner .big-border-button a:hover {
   background-color: #fff;
-  color: #00bdfe;
+  color: #313232;
 }
 
 .main-banner .icon-button a {
@@ -1010,7 +1010,7 @@ Banner Style
 }
 
 .main-banner .icon-button a:hover {
-  color: #00bdfe;
+  color: #313232;
 }
 
 
@@ -1061,7 +1061,7 @@ section.featured-items {
 
 .featured-items .item .thumb .hover-effect .content h4 {
   font-size: 20px;
-  color: #00bdfe;
+  color: #313232;
   margin-bottom: 22px;
 }
 
@@ -1118,7 +1118,7 @@ section.featured-items {
   font-size: 24px;
   display: inline-block;
   color: #fff;
-  background-color: #00bdfe;
+  background-color: #313232;
   border-radius: 50%;
   opacity: 0.75;
   transition: all .3s;
@@ -1185,7 +1185,7 @@ section.popular-categories .main-button {
   padding: 5px 8px;
   border-top-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  color: #00bdfe;
+  color: #313232;
   background-color: #fff;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.06);
   margin-right: 10px;
@@ -1207,7 +1207,7 @@ section.popular-categories .main-button {
 
 .popular-item .thumb span.category {
   font-size: 15px;
-  color: #00bdfe;
+  color: #313232;
   background-color: #fff;
   border-radius: 10px;
   font-weight: 500;
@@ -1221,7 +1221,7 @@ section.popular-categories .main-button {
 
 .popular-item .thumb span.likes {
   font-size: 15px;
-  color: #00bdfe;
+  color: #313232;
   background-color: #fff;
   border-radius: 10px;
   font-weight: 500;
@@ -1275,7 +1275,7 @@ section.closed-contests {
 
 .closed-item .thumb span.winner {
   font-size: 15px;
-  color: #00bdfe;
+  color: #313232;
   background-color: #fff;
   border-radius: 10px;
   font-weight: 500;
@@ -1294,7 +1294,7 @@ section.closed-contests {
 
 .closed-item .thumb span.price {
   font-size: 15px;
-  color: #00bdfe;
+  color: #313232;
   background-color: #fff;
   border-radius: 10px;
   font-weight: 500;
@@ -1370,7 +1370,7 @@ section.closed-contests {
 
 .closed-contests .owl-nav .owl-prev span:hover,
 .closed-contests .owl-nav .owl-next span:hover {
-  background-color: #00bdfe;
+  background-color: #313232;
   color: #fff;
 }
 
@@ -1399,7 +1399,7 @@ pricing-plans
 }
 
 .pricing-item:hover h4 {
-  color: #00bdfe;
+  color: #313232;
 }
 
 .pricing-item img {
@@ -1418,7 +1418,7 @@ pricing-plans
 
 .pricing-item ul li {
   font-size: 15px;
-  color: #00bdfe;
+  color: #313232;
   margin-bottom: 10px;
 }
 
@@ -1439,7 +1439,7 @@ pricing-plans
 
 .pricing-item span.price {
   font-size: 30px;
-  color: #00bdfe;
+  color: #313232;
   font-weight: 700;
   display: inline-block;
   margin-top: 30px;
@@ -1461,7 +1461,7 @@ footer.no-space {
 }
 
 footer {
-  background-color: #00bdfe;
+  background-color: #313232;
   text-align: center;
   padding: 25px 0px;
   margin-top: 120px;
@@ -1509,7 +1509,7 @@ page heading
 
 .page-heading h2 em {
   font-style: normal;
-  color: #00bdfe;
+  color: #313232;
 }
 
 .page-heading p {
@@ -1603,8 +1603,8 @@ Contests Page
   margin-top: 30px;
   font-size: 15px;
   color: rgb(255, 255, 255);
-  background-color: rgb(0, 189, 254);
-  border: 1px solid rgb(0, 189, 254);
+  background-color: #313232;
+  border: 1px solid #313232;
   padding: 10px 30px;
   display: inline-block;
   border-radius: 10px;
@@ -1616,7 +1616,7 @@ Contests Page
 
 #search-form button:hover {
   background-color: transparent;
-  color: #00bdfe;
+  color: #313232;
 }
 
 .photos-videos .item {
@@ -1637,7 +1637,7 @@ Contests Page
   height: 46px;
   background-color: #fff;
   border-radius: 50%;
-  color: #00bdfe;
+  color: #313232;
   text-align: center;
   line-height: 46px;
   position: absolute;
@@ -1689,7 +1689,7 @@ Contests Page
 .photos-videos .item .down-content h6 {
   text-align: right;
   font-size: 15px;
-  color: #00bdfe;
+  color: #313232;
   font-weight: 500;
   margin-top: 24px;
   margin-right: 30px;
@@ -1712,7 +1712,7 @@ Contests Page
 .contest-win .contest-item .top-content span.award {
   font-size: 15px;
   color: #fff;
-  background-color: #00bdfe;
+  background-color: #313232;
   border-radius: 10px;
   padding: 8px 12px;;
 }
@@ -1721,7 +1721,7 @@ Contests Page
   float: right;
   font-size: 20px;
   font-weight: 700;
-  color: #00bdfe;
+  color: #313232;
 }
 
 .contest-win .contest-item h4 {
@@ -1800,15 +1800,15 @@ Contests Page
   display: inline-block;
   text-align: center;
   line-height: 44px;
-  border: 1px solid #00bdfe;
+  border: 1px solid #313232;
   border-radius: 50%;
-  color: #00bdfe;
+  color: #313232;
   font-size: 20px;
   font-weight: 600;
 }
 
 .contest-win ul.pagination li.active a {
-  background-color: #00bdfe;
+  background-color: #313232;
   color: #fff;
 }
 
@@ -1843,7 +1843,7 @@ Contest Details Page
 .contest-details .top-content ul li {
   font-size: 18px;
   font-weight: 500;
-  color: #00bdfe;
+  color: #313232;
   margin-left: 15px;
 }
 
@@ -1858,7 +1858,7 @@ Contest Details Page
 
 .contest-details .top-content span.open {
   font-size: 15px;
-  background-color: #00bdfe;
+  background-color: #313232;
   color: #fff;
   padding: 8px 12px;
   border-radius: 10px;
@@ -1868,7 +1868,7 @@ Contest Details Page
 .contest-details .top-content span.wish-list {
   font-size: 15px;
   font-weight: 500;
-  color: #00bdfe;
+  color: #313232;
 }
 
 .contest-details .top-content span.wish-list i {
@@ -1978,7 +1978,7 @@ Contest Details Page
 
 .contest-waiting .waiting-item .down-content h4 {
   font-size: 15px;
-  color: #00bdfe;
+  color: #313232;
   font-weight: 700;
   margin-bottom: 22px;
 }
@@ -2002,7 +2002,7 @@ Contest Details Page
 .contest-waiting .waiting-item .down-content span.price em,
 .contest-waiting .waiting-item .down-content span.deadline em {
   font-style: normal;
-  color: #00bdfe;
+  color: #313232;
 }
 
 .contest-waiting ul.pagination {
@@ -2020,15 +2020,15 @@ Contest Details Page
   display: inline-block;
   text-align: center;
   line-height: 44px;
-  border: 1px solid #00bdfe;
+  border: 1px solid #313232;
   border-radius: 50%;
-  color: #00bdfe;
+  color: #313232;
   font-size: 20px;
   font-weight: 600;
 }
 
 .contest-waiting ul.pagination li.active a {
-  background-color: #00bdfe;
+  background-color: #313232;
   color: #fff;
 }
 
@@ -2094,7 +2094,7 @@ Categories Page
   padding: 5px 8px;
   border-top-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  color: #00bdfe;
+  color: #313232;
   background-color: #fff;
   box-shadow: 0px 0px 10px rgb(0 0 0 / 6%);
   margin-right: 10px;
@@ -2138,7 +2138,7 @@ Categories Page
 .featured-contests .item .hover-effect .content .top-content span.award {
   font-size: 15px;
   color: #fff;
-  background-color: #00bdfe;
+  background-color: #313232;
   border-radius: 10px;
   padding: 8px 12px;;
 }
@@ -2147,7 +2147,7 @@ Categories Page
   float: right;
   font-size: 20px;
   font-weight: 700;
-  color: #00bdfe;
+  color: #313232;
 }
 
 .featured-contests .item .hover-effect .content h4 {
@@ -2278,8 +2278,8 @@ Categories Page
 }
 
 .testimonials .owl-dots .active {
-  background-color: #00bdfe;
-  border: 1px solid #00bdfe;
+  background-color: #313232;
+  border: 1px solid #313232;
 }
 
 
@@ -2411,7 +2411,7 @@ section.portfolio .thumb .hover-effect .content ul li a {
 }
 
 section.portfolio .thumb .hover-effect .content ul li a:hover {
-  background-color: #00bdfe;
+  background-color: #313232;
   color: #fff;
 }
 
@@ -2433,7 +2433,7 @@ section.contact-us .info-item {
 
 section.contact-us .info-item i {
   font-size: 32px;
-  background-color: #00bdfe;
+  background-color: #313232;
   color: #fff;
   width: 80px;
   height: 80px;
@@ -2459,7 +2459,7 @@ section.contact-us .info-item a {
 }
 
 section.contact-us .info-item a:hover {
-  color: #00bdfe;
+  color: #313232;
 }
 
 #contact {
