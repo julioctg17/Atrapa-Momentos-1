@@ -939,6 +939,7 @@ Banner Style
 */
 
 .main-banner {
+  position: relative;
   background-image: url(../images/banner-bg.jpg);
   background-repeat: no-repeat;
   background-position: center center;
@@ -947,10 +948,22 @@ Banner Style
   padding-bottom: 240px;
   text-align: center;
   background-color: #2a2a2a;
+  z-index: 1;
+}
+
+.main-banner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(107, 107, 107, 0.5); /* negro con 50% transparencia */
+  z-index: 1;
 }
 
 .main-banner h2 {
-  color: #fff;
+  color: #3e3c3c;
   font-size: 64px;
   font-weight: 700;
   line-height: 74px;
@@ -958,7 +971,7 @@ Banner Style
 
 .main-banner h2 em {
   font-style: normal;
-  color: #313232;
+  color: #000000;
 }
 
 .main-banner p {
@@ -972,6 +985,8 @@ Banner Style
   margin-top: 30px;
   display: flex;
   justify-content: center;
+  position: relative;
+  z-index: 2;
 }
 
 .main-banner .big-border-button a {
